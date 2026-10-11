@@ -3,7 +3,7 @@
 //  QuickTasks Watch App
 //
 //  Created by Rusheni Botheju on 2026-10-11.
-//
+//  
 
 import Foundation
 
@@ -16,6 +16,7 @@ enum TaskPriority: String, CaseIterable, Identifiable {
 }
 
 struct TaskItem: Identifiable {
+    
     let id: UUID
     var title: String
     var completed: Bool
