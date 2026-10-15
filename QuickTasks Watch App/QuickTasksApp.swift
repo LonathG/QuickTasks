@@ -1,9 +1,3 @@
-//
-//  QuickTasksApp.swift
-//  QuickTasks Watch App
-//
-//  Created by Rusheni Botheju on 2026-10-11.
-//
 
 import SwiftUI
 
